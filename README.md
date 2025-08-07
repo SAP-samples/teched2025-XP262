@@ -1,8 +1,8 @@
-# Session ID - Session Title
+# XP262 - Best practices for a successful clean core journey with SAP Build solutions
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2025 session called XP262 - Best practices for a successful clean core journey with SAP Build solutions.  
 
 ## Overview
 
