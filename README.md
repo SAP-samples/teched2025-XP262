@@ -6,7 +6,9 @@ This repository contains the material for the SAP TechEd 2025 session called XP2
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to implementing a clean core extension with SAP Build solutions using SAP Application Extension Methodology. 
+Discover a use case and create a solution diagram for SAP S/4HANA and SAP Business Technology Platform (SAP BTP). 
+Use SAP Discovery Center and SAP BTP Guidance Framework to architect a robust extension and bring it to life with a hands-on exercise in SAP Build solutions.
 
 ## Requirements
 
