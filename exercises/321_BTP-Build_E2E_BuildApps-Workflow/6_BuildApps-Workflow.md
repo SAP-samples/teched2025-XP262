@@ -28,7 +28,7 @@ You should see the toast message indicating the workflow was triggered, and with
 
 ![Preview toast](./Images/launch-toast.png)
 
-You can also see the results of the call in the **[SAP Build]({link|https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby})** Monitor.
+You can also see the results of the call in the **[SAP Build](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby)** Monitor.
 
 6. Go to the **Monitoring** tab, then **Process and Workflow Instances**. 
 
