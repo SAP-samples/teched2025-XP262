@@ -17,7 +17,7 @@ Specifically, the app lets the user enter sales order details and then send thes
 ## Prerequisites
 
 - Your **{placeholder|userid}** user and Password
-- You have access to the SAP Build Apps [Lobby]({link|buildlobby})
+- You have access to the SAP Build Apps [Lobby]({link|https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby})
 - You have created a process in SAP Build Process Automation or use our workshop template process
 
 

@@ -1,6 +1,6 @@
 ### Run the Business Process
 
-1. Let us test the API Trigger in the **Control Tower** tab of the SAP Build [Lobby]({link|buildlobby}).
+1. Let us test the API Trigger in the **Control Tower** tab of the SAP Build [Lobby]({link|https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby}).
 
 2. Choose **Environments** > **Public**, and then the **Process and Workflows** tile.
 

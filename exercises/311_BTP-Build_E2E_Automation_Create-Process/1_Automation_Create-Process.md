@@ -7,7 +7,7 @@ In this section you will also create the following
 
 > The lobby is a central page for creating, accessing, and managing your projects in SAP Build. You can access business application processes, company configured templates, and other resources for your end-to-end business process.
 
-Choose **[Lobby]({link|buildlobby})** to open the entry page of **SAP Build** Process Automation.
+Choose **[Lobby]({link|https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby})** to open the entry page of **SAP Build** Process Automation.
 
 1. In the **Lobby**, choose **Create** and then **Create**.
 

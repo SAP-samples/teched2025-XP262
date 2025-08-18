@@ -13,7 +13,7 @@
 
 First, we need to create a brand new project from the build lobby.
 
-1. Select **[Lobby]({link|buildlobby})** to access the entry page of **SAP Build**.
+1. Select **[Lobby]({link|https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby})** to access the entry page of **SAP Build**.
 
 2. In the **Lobby**, choose **Create** and **Create**.
 

@@ -1,6 +1,6 @@
-1. Select **[Lobby]({link|buildlobby})** to access the entry page of **SAP Build**.
+1. Select **[Lobby]({link|https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby})** to access the entry page of **SAP Build**.
 
-2. In the **Lobby**, use the **search** field to locate the project named **TA - App UI Template**.
+2. In the **Lobby**, use the **search** field to locate the project named **XP262 - App UI Template**.
 
     ![Search project](./Images/search_template.png)
 
