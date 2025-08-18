@@ -47,7 +47,7 @@ Releasing a project creates a version or snapshot of the changes, and deploying 
 
 ### Publish to the SAP Build Library.
 
-1. After you have released and deployed the process, go to the SAP Build Lobby and find your project (i.e. **Sales Orders Management {placeholder\|userid}**).
+1. After you have released and deployed the process, go to the SAP Build Lobby and find your project (i.e. **Sales Orders Management XP262-XXX (your user number)**).
 
 2. Once you have found the process with at least one available version, Choose the **Navigate** arrow on the right.
 

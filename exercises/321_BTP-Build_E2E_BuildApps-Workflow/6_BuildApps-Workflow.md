@@ -7,7 +7,7 @@
     ![](./Images/open_preview.png)
 
 
-3. Select your project, **Create Sales Order {placeholder|userid}**.
+3. Select your project, **Create Sales Order XP262-XXX (your user number)**.
 
     ![Launch preview](./Images/launch-preview.png)
 
@@ -15,7 +15,7 @@
 
     | Field | Value |
     |-------|-------|
-    | Customer | {placeholder\|userid} Bikes |
+    | Customer | XP262-XXX (your user number) Bikes |
     | Material | MZ-FG-C900 |
     | Quantity  | 1200 |
     | Delivery Date  | 2024-12-01 |

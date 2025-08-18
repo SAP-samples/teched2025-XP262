@@ -6,7 +6,7 @@
 
    ![Monitor](./Images/312-2_Automation_Run-Process-4.2.1_New.png)
 
-3. Search for **{placeholder|userid}** to display your project.
+3. Search for **XP262-XXX (your user number)** to display your project.
    ![Monitor](./Images/312-2_Automation_Run-Process-5_NewP.png)
 
 4. Choose  **Start New Instance**.

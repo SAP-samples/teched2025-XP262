@@ -19,7 +19,7 @@ Use SAP Build Apps to create an app that lets you enter sales order data and the
 
 ## Prerequisites
 
-- You have access to the SAP Build Apps [Lobby](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby) with your **{placeholder|userid}** user and Password
+- You have access to the SAP Build Apps [Lobby](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby) with your **XP262-XXX (your user number)** user and Password
 
 
 ## Goal

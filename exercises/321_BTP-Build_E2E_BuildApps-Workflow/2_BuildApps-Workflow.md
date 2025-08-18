@@ -19,7 +19,7 @@ In order to trigger and consume processes from SAP Build Process Automation dire
 5. Select the process that you want to integrate by choosing on its tile. You need to filter on the **Project Name** for the sales order process in SAP Build Process Automation. 
 
 
-   If you completed the **SAP Build Process Automation - Create a Sales Order Process** workshop, filter by the **Sales Orders Management {placeholder|userid}** project before selecting the Process. 
+   If you completed the **SAP Build Process Automation - Create a Sales Order Process** workshop, filter by the **Sales Orders Management XP262-XXX** (your user number) project before selecting the Process. 
 
    ![Integration](./Images/Integration5b.png)
 

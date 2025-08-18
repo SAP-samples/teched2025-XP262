@@ -1,8 +1,8 @@
 # Experience SAP Build in Action – End-to-End
 
-The “Experience SAP Build in Action – End-to-End” workshop is a multi-part virtual learning series where participants will learn how to use the SAP Build suite to create, integrate and deploy a Sales Order business process across SBPA, Build Apps and S/4HANA Cloud.
+The “Experience SAP Build in Action – End-to-End” workshop is a multi-part series where you will learn how to use the SAP Build suite to create, integrate and deploy a Sales Order business process across SBPA, Build Apps and S/4HANA Cloud.
 
-The purpose of this Workshop is for you to familiarise yourself with the SAP Build tools by implementing an End-to-End Sales scenario based on the SAP Business Technology Platform (BTP) to address a real business challenge. 
+The purpose of this hands-on is for you to familiarise yourself with the SAP Build tools by implementing an End-to-End Sales scenario based on the SAP Business Technology Platform (BTP) to address a real business challenge. 
 
 Our desire is to provide a better showcase for the power of Build Apps by demonstrating how an end-to-end process can be built easily, while highlighting the tools’ integration capabilities in a way standalone experiences may not.
 

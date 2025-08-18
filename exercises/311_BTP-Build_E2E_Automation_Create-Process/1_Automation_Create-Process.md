@@ -25,8 +25,8 @@ Choose **[Lobby](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby)** to open th
 
     | Input Field | Input Value    |
     | ----------- | -------------- |
-    | Project Name   | **Sales Orders Management {placeholder\|userid}**|
-    | Description    | **Sales Orders Management Project {placeholder\|userid}**|
+    | Project Name   | **Sales Orders Management XP262-XXX (your user number)**|
+    | Description    | **Sales Orders Management Project XP262-XXX (your user number)**|
 
 5. Choose **Review**.
 

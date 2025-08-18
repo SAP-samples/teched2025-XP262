@@ -16,7 +16,6 @@ Specifically, the app lets the user enter sales order details and then send thes
 
 ## Prerequisites
 
-- Your **{placeholder|userid}** user and Password
 - You have access to the SAP Build Apps [Lobby](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby)
 - You have created a process in SAP Build Process Automation or use our workshop template process
 
@@ -28,11 +27,17 @@ In this workshop, you will learn how to:
 - Create a simple UI form
 - Trigger from your app a workflow in SAP Build Process Automation
 - Populate a dropdown list from an S/4HANA Cloud backend
-- Deploy an SAP Build app to SAP BTP
+
 
 At the end of this workshop, your app will look something like this:
 
 ![app](./Images/final-app.png)
+
+
+## Let's Start
+
+Now that you have ... 
+Continue to - [SAP Build Apps ](../ex1/README.md)
 
 ## Further information
 

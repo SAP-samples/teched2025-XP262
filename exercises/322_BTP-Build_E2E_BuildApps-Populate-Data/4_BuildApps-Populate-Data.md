@@ -2,13 +2,13 @@
 
 >If you already have a browser tab open to the web preview, it will refresh whenever you save the project.
 >
->Otherwise, to preview the app, go to **Preview > Open web preview**, and then choose **Open** for the **Create Sales Order {placeholder|userid}** project.
+>Otherwise, to preview the app, go to **Preview > Open web preview**, and then choose **Open** for the **Create Sales Order XP262-XXX (your user number)** project.
 
 2. Enter the following values in your form:
 
     | Field | Value |
     |-------|-------|
-    | Customer | {placeholder\|userid} Bikes |
+    | Customer | XP262-XXX (your user number) Bikes |
     | Quantity  | 2000 |
     | Delivery Date  | 2024-12-01 |
 

@@ -14,7 +14,7 @@ Monitoring business process is one of the key aspects of the automated processes
 
    The best way to find your process is to search for your user number or initials, depending on how you named it.
 
-2. Search for the project **Sales Orders Management **{placeholder|userid}**** using the Project dropdown. All the instances of the selected project are displayed in the table below. Select the latest one as it was the one created in the previous lesson.
+2. Search for the project **Sales Orders Management **XP262-XXX (your user number)**** using the Project dropdown. All the instances of the selected project are displayed in the table below. Select the latest one as it was the one created in the previous lesson.
 ![SelectProject](./Images/312-3_Automation_SelectInstance.png)
 
 
