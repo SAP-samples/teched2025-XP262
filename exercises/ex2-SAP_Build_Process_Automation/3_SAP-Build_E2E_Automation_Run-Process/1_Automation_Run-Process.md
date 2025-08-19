@@ -33,13 +33,7 @@ Releasing a project creates a version or snapshot of the changes, and deploying 
 
    ![Deploy](./Images/312-1_Deploy-3.png)
 
-4. Select the destination **S4HANA_CLOUD_CPI** from the drop down and Choose **Deploy**.
-
-   ![Deploy](./Images/312-1_Deploy-4.png)
-
-   > **S4HANA_CLOUD_CPI** refers to a BTP destination that leverages an SAP Integration Suite integration flow (iFlow) to post Sales Order data to the SAP S/4HANA Cloud tenant. The iFlow utilizes an OData ABAP API to manage the creation of Sales Orders in S/4HANA Cloud. This process aligns with the principles of a "clean core" approach, ensuring minimal customizations and preserving the standard capabilities of the S/4HANA Cloud system.
-
-5. Once the deployment is successful, you will see a changed status.
+4. Once the deployment is successful, you will see a changed status.
 
    ![Deploy](./Images/312-1_Deploy-5.png)
 
