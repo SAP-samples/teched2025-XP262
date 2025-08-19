@@ -14,6 +14,9 @@ Use SAP Discovery Center and SAP BTP Guidance Framework to architect a robust ex
 
 The requirements to follow the exercises in this repository are...
 
+## Presentation
+Access the presentation: 
+
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
