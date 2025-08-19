@@ -36,3 +36,7 @@ In order to trigger and consume processes from SAP Build Process Automation dire
    ![Integration](./Images/Integration7.png)
 
 Now your SAP Build Process Automation process is integrated into your SAP Build Apps project.
+
+## Next step
+
+Click here to start the next step: [Trigger Workflow](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/3_BuildApps-Workflow.md)

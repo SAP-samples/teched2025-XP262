@@ -61,4 +61,6 @@
 
 13. To save your work, choose **Save**.
 
+## Next step
 
+Click here to start the next step: [Approval Notification Form](../ex2-SAP_Build_Process_Automation/2_SAP-Build_E2E_Automation_Create-Process/5_Automation_Create-Process.md)

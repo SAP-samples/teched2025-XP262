@@ -122,3 +122,6 @@ Navigate back to the Process Builder canvas to create an Approval Form.
 10. Choose **Save** to save your work.
 
 
+## Next step
+
+Click here to start the next step: [Reject Notification](../ex2-SAP_Build_Process_Automation/2_SAP-Build_E2E_Automation_Create-Process/4_Automation_Create-Process.md)

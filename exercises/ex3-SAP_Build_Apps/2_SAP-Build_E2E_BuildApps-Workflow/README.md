@@ -31,6 +31,9 @@ You will learn how to:
 - Stylize your UI
 - Trigger from your app a workflow in SAP Build Process Automation
 
+## Next step
+
+Click here to start the next step: [Start with Template](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/1_BuildApps-Workflow.md)
 
 ## Further information
 

@@ -30,6 +30,8 @@ You can see the basic components of the UI are already in place:
 
 ![Name project](./Images/project_imported.png)
 
-Because you are using the optional **Copy Template Project** approach, you can now go directly to the **Integration Process** exercise / lesson in this unit (*Create SAP Build App to Trigger Workflow*).
 
 
+## Next step
+
+Click here to start the next step: [Integration](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/2_BuildApps-Workflow.md)

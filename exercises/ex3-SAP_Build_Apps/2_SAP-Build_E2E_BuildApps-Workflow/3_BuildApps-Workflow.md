@@ -27,3 +27,7 @@ We will create the page variables for the Customer, Material, Quantity and the D
     ![](./Images/page_vars7.png)
 
 8. Select **Save** (upper right).
+
+## Next step
+
+Click here to start the next step: [Variables](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/4_BuildApps-Workflow.md)

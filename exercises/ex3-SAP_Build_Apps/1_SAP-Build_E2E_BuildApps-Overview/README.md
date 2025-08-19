@@ -37,7 +37,7 @@ At the end of this workshop, your app will look something like this:
 ## Let's Start
 
 Now that you have ... 
-Continue to - [SAP Build Apps ](../ex1/README.md)
+Continue to - [Create the UI](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/README.md)
 
 ## Further information
 

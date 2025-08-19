@@ -64,3 +64,6 @@ Releasing a project creates a version or snapshot of the changes, and deploying 
 You have successfully released, deployed, and published your process. Now, your process will be visible from other SAP Build products in the SAP Build Library section. It is time to test the process and see the results.
 
 
+## Next step
+
+Click here to start the next step: [Run process](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/2_Automation_Run-Process.md)

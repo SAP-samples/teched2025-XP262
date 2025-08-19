@@ -33,4 +33,6 @@ Once the trigger is created, define which process flow should run based on if/el
 
 6. To save the Process, choose **Save**.
 
+## Next step
 
+Click here to start the next step: [Approval Forms](../ex2-SAP_Build_Process_Automation/2_SAP-Build_E2E_Automation_Create-Process/3_Automation_Create-Process.md)

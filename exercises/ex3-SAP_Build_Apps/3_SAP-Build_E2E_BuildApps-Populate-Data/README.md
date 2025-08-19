@@ -18,6 +18,10 @@ You will learn how to:
 - populate a dropdown list from S/4HANA Cloud backend data
 
 
+## Next step
+
+Click here to start the next step: [Dropdown](../ex3-SAP_Build_Apps/3_SAP-Build_E2E_BuildApps-Populate-Data/1_BuildApps-Populate-Data.md)
+
 ## Further information
 
 - [Product Page](https://www.sap.com/products/technology-platform/no-code-app-builder.html)

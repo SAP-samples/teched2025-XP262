@@ -53,7 +53,7 @@ In this step, you will create a notification form which would be received by the
    - Map **material** from **Process Content** => **salesorderdetails**.
 
 9. Under **Recipients/Users**:
-    Enter **{placeholder|userid_lc}@sapexperienceacademy.com**
+    Enter **XP262-XXX@education.cloud.sap** (replace XXX with your user number)
 
 10. To save your work, choose **Save**.
    ![Auto Approval](./Images/311-5_Automation_Create-Process-NotificationForm.png)
@@ -75,4 +75,7 @@ In this step, you will create a notification form which would be received by the
 
 This completes the process design with condition criteria that will decide what process flow is executed and whether there will be an auto-approval or a one-step approval route.
 
+## Next step
+
+Click here to start the next step: [Run Process](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/README.md)
 

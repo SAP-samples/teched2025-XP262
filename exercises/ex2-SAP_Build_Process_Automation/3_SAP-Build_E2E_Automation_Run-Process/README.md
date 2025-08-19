@@ -1,7 +1,3 @@
-<!--
-< [Previous Unit](../311_BTP-Build_E2E_Automation_Create-Process/README.md)
--->
-
 # Run the Sales Order Business Process
 
 Release, deploy and run the business process
@@ -34,6 +30,8 @@ SAP Build Process Automation combines capabilities from SAP Workflow Management 
 - [Development Tutorials for SAP Process Automation](https://developers.sap.com/tutorial-navigator.html?tag=software-product%3Atechnology-platform%2Fsap-build%2Fsap-build-process-automation)
 - [SAP Discovery Center - Services for SAP Build Process Automation](https://discovery-center.cloud.sap/serviceCatalog/sap-build-process-automation?region=all)
 
-<!--
-[Next Chapter](./1_Automation_Run-Process.md) >
--->
+
+## Next step
+
+Click here to start the next step: [Deploy Process](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/1_Automation_Run-Process.md)
+

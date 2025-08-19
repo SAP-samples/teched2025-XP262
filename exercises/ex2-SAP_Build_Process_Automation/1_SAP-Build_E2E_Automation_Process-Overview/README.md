@@ -19,10 +19,10 @@ You will learn
 
 - How to create a SAP Build Process Automation project to build and extend business processes
 
-## Start exericse
+## Next step
 
 
-
+Click here to start the next step: [Create Process](../ex2-SAP_Build_Process_Automation/2_SAP-Build_E2E_Automation_Create-Process/1_Automation_Create-Process.md)
 
 ## Further information
 

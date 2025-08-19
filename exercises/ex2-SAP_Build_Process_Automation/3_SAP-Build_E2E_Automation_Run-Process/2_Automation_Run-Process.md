@@ -40,3 +40,7 @@
 
 
 You have successfully run your project. It is time to monitor the process flow and access the tasks.
+
+## Next step
+
+Click here to start the next step: [Monitoring](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/3_Automation_Run-Process.md)

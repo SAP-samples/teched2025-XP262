@@ -44,3 +44,7 @@ The first process listed should be the one you just triggered.
 ![Preview in process automation](./Images/launch-preview-SPA.png)
 
 
+## Next step
+
+**Congratulations!** Your app and process are successfully connected. Now we add some data from S4.
+Click here to start the next step: [Data](../ex3-SAP_Build_Apps/3_SAP-Build_E2E_BuildApps-Populate-Data/README.md)

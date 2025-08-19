@@ -30,3 +30,7 @@ A data resource defines a connection to a backend, and when executed, will bring
 
     ![](./Images/save_data_resource.png)
 
+
+## Next step
+
+Click here to start the next step: [Variables](../ex3-SAP_Build_Apps/3_SAP-Build_E2E_BuildApps-Populate-Data/2_BuildApps-Populate-Data.md)

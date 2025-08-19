@@ -54,3 +54,8 @@ Monitoring business process is one of the key aspects of the automated processes
    ![Run](./Images/312-3_Automation_Run-Process-CompletedProcess.png)
 
 
+**Congratulations** you finished the SAP Build Process Automation Part. As a next step we will create a custom user interface with SAP Build Apps.
+
+## Next step
+
+Click here to start the next step: [SAP Build Apps](../ex3-SAP_Build_Apps/1_SAP-Build_E2E_BuildApps-Overview/README.md)

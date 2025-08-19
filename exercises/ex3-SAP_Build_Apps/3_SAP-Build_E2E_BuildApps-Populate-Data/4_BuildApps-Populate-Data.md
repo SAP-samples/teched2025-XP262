@@ -29,3 +29,4 @@
     ![](./Images/monitor.png)
 
 
+**Congratulations** you have completed the exercise!
