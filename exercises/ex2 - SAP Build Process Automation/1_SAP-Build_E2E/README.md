@@ -14,4 +14,8 @@ This workshop packages exercises in SAP Build Process Automation and SAP Build A
 
 The goal is to demonstrate not only the scope and flexibility of each individual SAP Build tool, but also to highlight the ease and power of integration between the Build tools and S/4HANA Cloud.
 
+## Start Process Automation exercise
+
+Click here to start the exercise: **[SAP Build Process Automation]**(/exercises/ex2 - SAP Build Process Automation/2_SAP-Build_E2E_Automation_Process-Overview/README.md)
+
 

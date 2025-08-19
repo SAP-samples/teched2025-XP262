@@ -6,7 +6,6 @@ With SAP Build Process Automation, create a sales order approval process that ca
 
 ## Prerequisites
 
-- You have cleared your browser cache
 - Your **XP262-XXX (your user number)** username and password
 - You have access to the SAP Build [Lobby](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby). 
 
@@ -19,6 +18,10 @@ With SAP Build Process Automation, create a sales order approval process that ca
 You will learn
 
 - How to create a SAP Build Process Automation project to build and extend business processes
+
+## Start exericse
+
+
 
 
 ## Further information
