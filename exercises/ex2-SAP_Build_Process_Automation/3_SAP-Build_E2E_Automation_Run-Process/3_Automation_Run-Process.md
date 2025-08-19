@@ -58,4 +58,4 @@ Monitoring business process is one of the key aspects of the automated processes
 
 ## Next step
 
-Click here to start the next step: [SAP Build Apps](../ex3-SAP_Build_Apps/1_SAP-Build_E2E_BuildApps-Overview/README.md)
+Click here to start the next step: [SAP Build Apps](.../ex3-SAP_Build_Apps/1_SAP-Build_E2E_BuildApps-Overview/README.md)
