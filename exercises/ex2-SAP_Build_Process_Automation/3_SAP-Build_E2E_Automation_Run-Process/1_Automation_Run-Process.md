@@ -4,7 +4,7 @@ To run the process, you have to first release and then deploy the business proce
 
 Releasing a project creates a version or snapshot of the changes, and deploying the project makes it available in runtime to be consumed. You can only deploy a released version of the project.
 
-1. In the Process Builder, to release a project, Choose**Release** button on the top-right corner of the screen and provide a description in the popup dialog.
+1. In the Process Builder, to release a project, Choose **Release** button on the top-right corner of the screen and provide a description in the popup dialog.
 
    ![released](./Images/312-1_Automation_Run-Process-1.png)
 
