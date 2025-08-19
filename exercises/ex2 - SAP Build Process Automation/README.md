@@ -16,5 +16,4 @@ The goal is to demonstrate not only the scope and flexibility of each individual
 
 ## Start Process Automation exercise
 
-Click here to start the exercise: **[SAP Build Process Automation](../ex2 - SAP Build Process Automation/1_SAP-Build_E2E_Automation_Process-Overview/README.md)**
-
+Click here to start the exercise: [SAP Build Process Automation](../ex2 - SAP Build Process Automation/1_SAP-Build_E2E_Automation_Process-Overview/README.md)
