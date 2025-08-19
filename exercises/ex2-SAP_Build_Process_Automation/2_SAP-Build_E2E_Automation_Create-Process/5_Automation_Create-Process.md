@@ -77,5 +77,5 @@ This completes the process design with condition criteria that will decide what 
 
 ## Next step
 
-Click here to start the next step: [Run Process](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/README.md)
+Click here to start the next step: [Run Process](../3_SAP-Build_E2E_Automation_Run-Process/README.md)
 

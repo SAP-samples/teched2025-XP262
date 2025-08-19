@@ -74,4 +74,4 @@ We need to set up the logic so when someone selects the **Get Approval** button 
 
 ## Next step
 
-Click here to start the next step: [Preview](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/6_BuildApps-Workflow.md)
+Click here to start the next step: [Preview](../2_SAP-Build_E2E_BuildApps-Workflow/6_BuildApps-Workflow.md)

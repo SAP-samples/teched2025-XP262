@@ -30,4 +30,4 @@ We will create the page variables for the Customer, Material, Quantity and the D
 
 ## Next step
 
-Click here to start the next step: [Variables](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/4_BuildApps-Workflow.md)
+Click here to start the next step: [Variables](../2_SAP-Build_E2E_BuildApps-Workflow/4_BuildApps-Workflow.md)

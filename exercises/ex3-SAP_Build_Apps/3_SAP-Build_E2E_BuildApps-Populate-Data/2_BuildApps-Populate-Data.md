@@ -44,4 +44,4 @@ Select **Save**
 
 ## Next step
 
-Click here to start the next step: [UI](../ex3-SAP_Build_Apps/3_SAP-Build_E2E_BuildApps-Populate-Data/3_BuildApps-Populate-Data.md)
+Click here to start the next step: [UI](../3_SAP-Build_E2E_BuildApps-Populate-Data/3_BuildApps-Populate-Data.md)

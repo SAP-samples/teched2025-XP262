@@ -34,4 +34,4 @@ You can see the basic components of the UI are already in place:
 
 ## Next step
 
-Click here to start the next step: [Integration](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/2_BuildApps-Workflow.md)
+Click here to start the next step: [Integration](../2_SAP-Build_E2E_BuildApps-Workflow/2_BuildApps-Workflow.md)

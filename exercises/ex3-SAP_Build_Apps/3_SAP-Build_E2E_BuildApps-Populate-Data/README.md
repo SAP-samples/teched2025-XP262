@@ -20,7 +20,7 @@ You will learn how to:
 
 ## Next step
 
-Click here to start the next step: [Dropdown](../ex3-SAP_Build_Apps/3_SAP-Build_E2E_BuildApps-Populate-Data/1_BuildApps-Populate-Data.md)
+Click here to start the next step: [Dropdown](../3_SAP-Build_E2E_BuildApps-Populate-Data/1_BuildApps-Populate-Data.md)
 
 ## Further information
 

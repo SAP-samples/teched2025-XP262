@@ -66,4 +66,4 @@ You have successfully released, deployed, and published your process. Now, your 
 
 ## Next step
 
-Click here to start the next step: [Run process](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/2_Automation_Run-Process.md)
+Click here to start the next step: [Run process](../3_SAP-Build_E2E_Automation_Run-Process/2_Automation_Run-Process.md)

@@ -50,4 +50,4 @@ Whenever someone types into the input box, the value is automatically copied int
 
 ## Next step
 
-Click here to start the next step: [Logic](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/5_BuildApps-Workflow.md)
+Click here to start the next step: [Logic](../2_SAP-Build_E2E_BuildApps-Workflow/5_BuildApps-Workflow.md)

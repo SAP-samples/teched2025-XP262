@@ -33,4 +33,4 @@ A data resource defines a connection to a backend, and when executed, will bring
 
 ## Next step
 
-Click here to start the next step: [Variables](../ex3-SAP_Build_Apps/3_SAP-Build_E2E_BuildApps-Populate-Data/2_BuildApps-Populate-Data.md)
+Click here to start the next step: [Variables](../3_SAP-Build_E2E_BuildApps-Populate-Data/2_BuildApps-Populate-Data.md)

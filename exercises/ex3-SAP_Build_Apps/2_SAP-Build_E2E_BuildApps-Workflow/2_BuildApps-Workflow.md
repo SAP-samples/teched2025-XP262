@@ -39,4 +39,4 @@ Now your SAP Build Process Automation process is integrated into your SAP Build 
 
 ## Next step
 
-Click here to start the next step: [Trigger Workflow](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/3_BuildApps-Workflow.md)
+Click here to start the next step: [Trigger Workflow](../2_SAP-Build_E2E_BuildApps-Workflow/3_BuildApps-Workflow.md)

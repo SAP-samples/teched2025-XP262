@@ -33,5 +33,5 @@ SAP Build Process Automation combines capabilities from SAP Workflow Management 
 
 ## Next step
 
-Click here to start the next step: [Deploy Process](../ex2-SAP_Build_Process_Automation/3_SAP-Build_E2E_Automation_Run-Process/1_Automation_Run-Process.md)
+Click here to start the next step: [Deploy Process](../3_SAP-Build_E2E_Automation_Run-Process/1_Automation_Run-Process.md)
 
