@@ -23,6 +23,12 @@ You will learn
 - How to view the Triggers
 - How to trigger the process with API Trigger
 
+
+## Next step
+
+Click here to start the next step: [Deploy Process](../3_SAP-Build_E2E_Automation_Run-Process/1_Automation_Run-Process.md)
+
+
 ## Further information
 
 SAP Build Process Automation combines capabilities from SAP Workflow Management and SAP Intelligent RPA with a powerful, yet intuitive no-code development experience. SAP Build Process Automation enables business users and technologists to become citizen developers. With powerful yet intuitive low-code and no-code capabilities, the solution supports you in driving automation by tapping into the expertise of citizen developers.
@@ -30,8 +36,4 @@ SAP Build Process Automation combines capabilities from SAP Workflow Management 
 - [Development Tutorials for SAP Process Automation](https://developers.sap.com/tutorial-navigator.html?tag=software-product%3Atechnology-platform%2Fsap-build%2Fsap-build-process-automation)
 - [SAP Discovery Center - Services for SAP Build Process Automation](https://discovery-center.cloud.sap/serviceCatalog/sap-build-process-automation?region=all)
 
-
-## Next step
-
-Click here to start the next step: [Deploy Process](../3_SAP-Build_E2E_Automation_Run-Process/1_Automation_Run-Process.md)
 
