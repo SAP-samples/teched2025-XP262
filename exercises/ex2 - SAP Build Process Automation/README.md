@@ -1,42 +1,20 @@
-# Exercise 2 - Exercise 2 Description
+# Experience SAP Build in Action – End-to-End
 
-In this exercise, we will create...
+The “Experience SAP Build in Action – End-to-End” workshop is a multi-part series where you will learn how to use the SAP Build suite to create, integrate and deploy a Sales Order business process across SBPA, Build Apps and S/4HANA Cloud.
 
-## Exercise 2.1 Sub Exercise 1 Description
+The purpose of this hands-on is for you to familiarise yourself with the SAP Build tools by implementing an End-to-End Sales scenario based on the SAP Business Technology Platform (BTP) to address a real business challenge. 
 
-After completing these steps you will have created...
+Our desire is to provide a better showcase for the power of Build Apps by demonstrating how an end-to-end process can be built easily, while highlighting the tools’ integration capabilities in a way standalone experiences may not.
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+![](./Images/Overview1-Template-Use-A-Proper-Name.jpg)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+## Goal
 
+This workshop packages exercises in SAP Build Process Automation and SAP Build Apps in to a single connected experience.
 
+The goal is to demonstrate not only the scope and flexibility of each individual SAP Build tool, but also to highlight the ease and power of integration between the Build tools and S/4HANA Cloud.
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Start Process Automation exercise
 
-After completing these steps you will have...
+Click here to start the exercise: **[SAP Build Process Automation](../ex2 - SAP Build Process Automation/1_SAP-Build_E2E_Automation_Process-Overview/README.md)**
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
-
-## Summary
-
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
