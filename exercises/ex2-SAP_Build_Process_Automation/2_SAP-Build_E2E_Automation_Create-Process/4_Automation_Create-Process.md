@@ -49,7 +49,7 @@
    - Type **Your order has been rejected for**
    - Map **material** from **Process Content** => **salesorderdetails**
 
-10. In **Recipients** under **Users**, enter the email address as **{placeholder|userid_lc}@sapexperienceacademy.com**
+10. In **Recipients** under **Users**, enter the email address as **XP262-XXX@education.cloud.sap** (replace XXX with your user number)
    ![OrderRejectFormGeneral2](./Images/311-3_OrderRejectFormGeneral2.png)
 
 11. To save your work, choose **Save**. 
