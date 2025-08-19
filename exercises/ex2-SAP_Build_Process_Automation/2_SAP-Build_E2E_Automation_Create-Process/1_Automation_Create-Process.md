@@ -141,6 +141,6 @@ A new tabs opens with the newly created project. Inside a project, you can creat
 
 ## Next step
 
-Click here to start the next step: [Process Conditions](../ex2-SAP_Build_Process_Automation/2_SAP-Build_E2E_Automation_Create-Process/2_Automation_Create-Process.md)
+Click here to start the next step: [Process Conditions](../2_SAP-Build_E2E_Automation_Create-Process/2_Automation_Create-Process.md)
 
 
