@@ -33,7 +33,7 @@ You will learn how to:
 
 ## Next step
 
-Click here to start the next step: [Start with Template](../ex3-SAP_Build_Apps/2_SAP-Build_E2E_BuildApps-Workflow/1_BuildApps-Workflow.md)
+Click here to start the next step: [Start with Template](../2_SAP-Build_E2E_BuildApps-Workflow/1_BuildApps-Workflow.md)
 
 ## Further information
 
