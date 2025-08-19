@@ -105,7 +105,7 @@ Navigate back to the Process Builder canvas to create an Approval Form.
 
    In the **Recipients/Users** section:
    
-   - Enter **XP262-XXX@education.cloud.sap** (replace XXX with your user number)
+   - Enter **xp262-XXX@education.cloud.sap** (replace XXX with your user number)
 
 8. To save your work, choose **Save**.
 
