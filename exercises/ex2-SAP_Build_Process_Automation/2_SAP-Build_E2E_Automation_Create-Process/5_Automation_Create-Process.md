@@ -53,7 +53,7 @@ In this step, you will create a notification form which would be received by the
    - Map **material** from **Process Content** => **salesorderdetails**.
 
 9. Under **Recipients/Users**:
-    Enter **XP262-XXX@education.cloud.sap** (replace XXX with your user number)
+    Enter **xp262-XXX@education.cloud.sap** (replace XXX with your user number)
 
 10. To save your work, choose **Save**.
    ![Auto Approval](./Images/311-5_Automation_Create-Process-NotificationForm.png)
