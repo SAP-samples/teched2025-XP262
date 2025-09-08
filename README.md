@@ -21,7 +21,7 @@ Access the presentation:
 
 
 ### 🛠 Exercise 1 - SAP Application Extension Methodology
-> In this exercise, you will assume the role of an Enterprise Architect. 
+> In this exercise, you'll assume the role of an Enterprise Architect. 
 > You’re a member of ACME Corporation’s Enterprise Architecture team, tasked with creating a target solution diagram to prepare for the implementation of this extension use case. 
 > Having recently learned about the SAP Application Extension Methodology, you plan to apply it to guide the architecture of this project.
 
@@ -29,13 +29,17 @@ Access the presentation:
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
       
-### Exercise 2 - SAP Build Process Automation
+### 🛠 Exercise 2 - SAP Build Process Automation
+> In this exercise, you will assume the role of a Developer.
+> With SAP Build Process Automation, you'll create a sales order approval process that can be triggered with an API call, and then run it by sending the sales order details in the API call.
+
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
     - 
-### Exercise 3 - SAP Build Apps
-
+### 🛠 Exercise 3 - SAP Build Apps
+> In this exercise, you will asume the role of a Developer.
+> You'll create an app for entering the sales order data and trigger a business process with SAP Build Apps. This app will trigger an existing sales order approval process in SAP Build Process Automation.
 
 
 ## Contributing
