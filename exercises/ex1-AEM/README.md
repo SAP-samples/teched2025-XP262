@@ -2,7 +2,7 @@
 
 In this exercise, you'll assume the role of an Enterprise Architect. You’re a member of ACME Corporation’s Enterprise Architecture team, tasked with creating a target solution diagram to prepare for the implementation of this extension use case. Having recently learned about the SAP Application Extension Methodology, you plan to apply it to guide the architecture of this project.
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 1.1 Use case example: Sales order process extension
 
 After completing these steps you will have created...
 
