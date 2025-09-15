@@ -4,7 +4,6 @@ In this exercise, you'll assume the role of an Enterprise Architect. You’re a 
 
 ## Exercise 1.1: Use case example: Sales order process extension
 
-### Task:
 > 1. Read the Business Case.
 > 2. Read the Architecture Principals and Business Context.
 
@@ -23,14 +22,13 @@ ACME’s sales order entry requires additional validations and approvals. The au
 
 ## Exercise 1.2: Assess Extension Use Case
 
-### Task:
 > 1. Learn about the SAP Application Extension Methodology - 
  <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-1-assess-extension-use-case?locale=en-US)" target="_blank">Phase 1: Assess Extension Use Case</a>
 > 2. Read the example solution for System Context, Business Context & Requirement, and Application Extension Use Case. To speed up the hands-on exercicse, we already provide you with the solution. In later exercises you will fill out the templates on your own.
 
 ### System Context
 <details>
-<summary>Click to expand</summary>
+<summary>🔵 Click to expand.</summary>
 
 ![System Context](./images/example_system_context.jpg)
 
@@ -38,7 +36,7 @@ ACME’s sales order entry requires additional validations and approvals. The au
 
 ### Business Context & Requirement
 <details>
-<summary>Click to expand</summary>
+<summary>🔵 Click to expand.</summary>
 
 ![System Context](./images/Business%20Context%20&%20Requirement.jpg)
 
@@ -46,14 +44,14 @@ ACME’s sales order entry requires additional validations and approvals. The au
 
 ### Application Extension Use Case
 <details>
-<summary>Click to expand</summary>
+<summary>🔵 Click to expand.</summary>
 
 ![System Context](./images/Application%20Extension%20Use%20Case%20Scene%20-%20Sales%20order%20process%20extension.jpg)
 
 </details>
 
 ## Exercise 1.3: Assess Extension Technology
-### Task
+
 > 1. Learn about the SAP Application Extension Methodology - 
 <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-2-assess-extension-technology?locale=en-US" target="_blank">Phase 2: Assess Extension Technology</a>. 
 > 2. Focus on Extension Tasks and the Extension Technology Mapping.
@@ -66,10 +64,10 @@ At this step, you’re still technology-agnostic, thus empowering you to ignore 
 > 1. Download the PowerPoint template (link). 
 > 2. The template is pre-filled with the business use case details for Phase 1.
 > 3. Fill out Phase 2 (Extension Task) of the template for each scene.
-> 4. Ask yourself: Which Extension Task can solve the business requirement as defined in the "Actions" and "Application Logic" line?
+> 4. Ask yourself: Which Extension Task can solve the business requirement as defined in the "Actions" and "Application Logic" row?
 
 <details>
-<summary>Click to expand - ⚠ spoiler ⚠ - example solution</summary>
+<summary>⚠️ Click to expand - spoiler - example solution</summary>
 
 </details>
 
@@ -91,7 +89,7 @@ The extension technology mapping outlines the relationship between extension tas
 
 
 <details>
-<summary>Click to expand - ⚠ spoiler ⚠ - example solution</summary>
+<summary>⚠️ Click to expand - spoiler - example solution</summary>
 
 </details>
 
@@ -103,7 +101,7 @@ Create your extension target solution by reusing the official SAP Business Techn
 > 3. To speed up the process you can use the pre-filled PowerPoint template from exercicse 1.3.1.
 
 <details>
-<summary>Click to expand - ⚠ spoiler ⚠ - example solution</summary>
+<summary>⚠️ Click to expand - spoiler - example solution</summary>
 
 </details>
 
@@ -116,5 +114,4 @@ Create your extension target solution by reusing the official SAP Business Techn
 - You ensured a future-proof and clean core architecture.
 - You have created a solution diagram, which is the starting point for your implementation.
 
-Continue to - [Exercise 2 - SAP Build Process Automation](../ex2/README.md)
-
+Continue to - [Exercise 2 - SAP Build Process Automation](../ex2-SAP_Build_Process_Automation/README.md)
