@@ -21,7 +21,7 @@ ACME’s sales order entry requires additional validations and approvals. The au
 - Side-by-Side options are preferred for workflow implementation and UIs
 - ACME employees are used to access SAP application through SAP Build Work Zone
 
-## Exercise 1.2: SAP Application Extension Methodology - Phase 1: Assess Extension Use Case
+## Exercise 1.2: Assess Extension Use Case
 
 ### Task:
 1. Learn about the SAP Application Extension Methodology - 
@@ -52,7 +52,7 @@ ACME’s sales order entry requires additional validations and approvals. The au
 
 </details>
 
-## Exercise 1.3: SAP Application Extension Methodology - Phase 2: Assess Extension Technology
+## Exercise 1.3: Assess Extension Technology
 ### Task
 1. Learn about the SAP Application Extension Methodology - 
 <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-2-assess-extension-technology?locale=en-US" target="_blank">Phase 2: Assess Extension Technology</a>. 
@@ -77,9 +77,17 @@ The extension technology mapping outlines the relationship between extension tas
 </details>
 
 
-## Exercise 1.4: SAP Application Extension Methodology - Phase 3: Define Extension Target Solution
+## Exercise 1.4:  Define Extension Target Solution
 1. Learn about the SAP Application Extension Methodology - 
 <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-3-define-extension-target-solution?locale=en-US" target="_blank">Phase 3: Define Extension Target Solution</a>
+
+### Extension Target Solution Diagram
+Create your extension target solution by reusing the official SAP Business Technology Platform diagrams & icons.
+
+<details>
+<summary>Click to expand - spoiler - example solution</summary>
+
+</details>
 
 ## Summary
 
