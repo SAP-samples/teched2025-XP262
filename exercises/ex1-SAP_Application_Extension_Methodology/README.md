@@ -74,7 +74,7 @@ At this step, you’re still technology-agnostic, thus empowering you to ignore 
 ### Exercise 1.3.2: Extension Technology Mapping
 The extension technology mapping outlines the relationship between extension tasks and technical extension building blocks.
 
-> 1. Download the spreadsheet template for the Extension Technology Mapping (link).
+> 1. Download the spreadsheet template for the  [Extension Technology Mapping](./images/XP262_TechEd_2025_SAP_Application_Extension_Methodology_EXTENSION_TECHNOLOGY_MAPPING_v2.4.1.xlsx)
 > 2. The contents of the spreadsheet were greatly reduced to make the exercise simpler and faster.
 > 3. Make yourself familiar with the various technical options for each extension task.
 
