@@ -38,7 +38,7 @@ ACME’s sales order entry requires additional validations and approvals. The au
 <details>
 <summary>🔵 Click to expand.</summary>
 
-![System Context](./images/Business%20Context%20&%20Requirement.jpg)
+![Business Context & Requirement](./images/Business_Context_P1.jpg)
 
 </details>
 
@@ -46,7 +46,7 @@ ACME’s sales order entry requires additional validations and approvals. The au
 <details>
 <summary>🔵 Click to expand.</summary>
 
-![System Context](./images/Application%20Extension%20Use%20Case%20Scene%20-%20Sales%20order%20process%20extension.jpg)
+![Application Extension Use Case](./images/Application%20Extension%20Use%20Case%20Scene%20-%20Sales%20order%20process%20extension.jpg)
 
 </details>
 
@@ -56,40 +56,88 @@ ACME’s sales order entry requires additional validations and approvals. The au
 <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-2-assess-extension-technology?locale=en-US" target="_blank">Phase 2: Assess Extension Technology</a>. 
 > 2. Focus on Extension Tasks and the Extension Technology Mapping.
 
-### Exercise 1.3.1: Extension Task
+### Exercise 1.3.1: Extension task
 You start to translate your business requirement into a technical requirement through extension tasks, by mapping each requirement from the use case description (phase 1) to one or many extension tasks. 
 
 At this step, you’re still technology-agnostic, thus empowering you to ignore any possible technical limitations. This enables you to think freely without worrying about technical limitations. 
-
-> 1. Download the PowerPoint template (link). 
-> 2. The template is pre-filled with the business use case details for Phase 1.
-> 3. Fill out Phase 2 (Extension Task) of the template for each scene.
-> 4. Ask yourself: Which Extension Task can solve the business requirement as defined in the "Actions" and "Application Logic" row?
+#### Follow these steps:
+> 1. Download the PowerPoint template [XP262 - Best practices for a successful clean core journey with SAP Build solutions](./images/XP262%20-%20Best%20practices%20for%20a%20successful%20clean%20core%20journey%20with%20SAP%20Build%20solutions.pptx). 
+> 2. Use this slide deck throughout the entire hands-on exercise.
+> 3. Choose a suitable extension task and write it into Phase 2 of the template.
+> 4. Repeat this for scene 01 to scene 04.
+> 5. Ask yourself: Which Extension task can address the business requirement as defined in the "Actions" and "Application Logic" row?
 
 <details>
-<summary>⚠️ Click to expand - spoiler - example solution</summary>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 01</summary>
+
+![Scene 01](./images/Scene_01_P1_P2.jpg)
+
+</details>
+
+<details>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 02</summary>
+
+![Scene 02](./images/Scene_02_P1_P2.jpg)
+
+</details>
+
+<details>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 03</summary>
+
+![Scene 03](./images/Scene_03_P1_P2.jpg)
+
+</details>
+
+<details>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 04</summary>
+
+![Scene 04](./images/Scene_04_P1_P2.jpg)
 
 </details>
 
 ### Exercise 1.3.2: Extension Technology Mapping
 The extension technology mapping outlines the relationship between extension tasks and technical extension building blocks.
 
-> 1. Download the spreadsheet template for the  [Extension Technology Mapping](./images/XP262_TechEd_2025_SAP_Application_Extension_Methodology_EXTENSION_TECHNOLOGY_MAPPING_v2.4.1.xlsx)
-> 2. The contents of the spreadsheet were greatly reduced to make the exercise simpler and faster.
-> 3. Make yourself familiar with the various technical options for each extension task.
+> 1. Download the spreadsheet [Extension Technology Mapping](./images/XP262_TechEd_2025_SAP_Application_Extension_Methodology_EXTENSION_TECHNOLOGY_MAPPING_v2.4.1.xlsx).
+> 2. The contents of this spreadsheet were greatly reduced to make the exercise simpler and faster.
+> 3. Make yourself familiar with the extension tasks and technical extension building blocks.
 
 ## Exercise 1.4:  Define Extension Target Solution
 > 1. Learn about the SAP Application Extension Methodology - 
 <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-3-define-extension-target-solution?locale=en-US" target="_blank">Phase 3: Define Extension Target Solution</a>
 
 ### Exercise 1.4.1: Extension Technology per Extension Task
-> 1. Fill out Phase 3 (technical extension building block) for each scene.
-> 2. Use the Extension Technology Mapping spreadsheet to choose the right building block for each extension task.
-> 3. Remember the Architecture Principals and the Business Context from the business use case (exercise 1.2) to make an informed decision.
+> 1. Choose a suitable technical extension building blocks and write it into Phase 3 of the template.
+> 2. Repeat this for scene 01 to scene 04.
+> 3. Use the Extension Technology Mapping spreadsheet from exercise 1.3.2 to choose the right building block for each extension task.
+> 4. Remember the Architecture Principals and the Business Context from exercise 1.2 to make an informed decision.
 
 
 <details>
-<summary>⚠️ Click to expand - spoiler - example solution</summary>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 01</summary>
+
+![Scene 01](./images/Scene_01_P1_P2_P3.jpg)
+
+</details>
+
+<details>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 02</summary>
+
+![Scene 02](./images/Scene_02_P1_P2_P3.jpg)
+
+</details>
+
+<details>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 03</summary>
+
+![Scene 03](./images/Scene_03_P1_P2_P3.jpg)
+
+</details>
+
+<details>
+<summary>⚠️ Click to expand - spoiler - example solution for scene 04</summary>
+
+![Scene 04](./images/Scene_04_P1_P2_P3.jpg)
 
 </details>
 
@@ -98,11 +146,14 @@ Create your extension target solution by reusing the official SAP Business Techn
 
 > 1. Download the [BTP Solution Diagrams](https://sap.github.io/btp-solution-diagrams/) Icons.
 > 2. Create the solution diagram. 
-> 3. To speed up the process you can use the pre-filled PowerPoint template from exercicse 1.3.1.
+> 3. To speed up the process you can use the pre-filled PowerPoint template.
+> 4. Remember which technical extension building blocks did you choose in exercise 1.4.1?
+> 5. If you need more guidance, you can take a look at the SAP Architecture Center. Navigate to the <a href="https://discovery-center.cloud.sap/index.html" target="_blank">SAP Discovery Center</a> -> SAP BTP Guidance Framework -> SAP Architecture Center.
 
 <details>
 <summary>⚠️ Click to expand - spoiler - example solution</summary>
 
+![Solution Diagram](./images/Solution_Diagram.jpg)
 </details>
 
 ## Summary
