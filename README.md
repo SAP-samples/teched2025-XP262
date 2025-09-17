@@ -11,8 +11,8 @@ Discover a use case and create a solution diagram for SAP S/4HANA and SAP Busine
 Use SAP Discovery Center and SAP BTP Guidance Framework to architect a robust extension and bring it to life with a hands-on exercise in SAP Build solutions.
 
 ## Presentation
-- Download the presentation here (link)
-- Download the SAP Application Extension Methodlogy templates here (link)
+- Download the PowerPoint template [XP262 - Best practices for a successful clean core journey with SAP Build solutions](./images/XP262%20-%20Best%20practices%20for%20a%20successful%20clean%20core%20journey%20with%20SAP%20Build%20solutions.pptx). 
+- Download the spreadsheet [Extension Technology Mapping](./images/XP262_TechEd_2025_SAP_Application_Extension_Methodology_EXTENSION_TECHNOLOGY_MAPPING_v2.4.1.xlsx).
 
 ## Exercises
 
