@@ -98,6 +98,7 @@ At this step, you’re still technology-agnostic, thus empowering you to ignore 
 ### Exercise 1.3.2: Extension Technology Mapping
 The extension technology mapping outlines the relationship between extension tasks and technical extension building blocks.
 
+#### Follow these steps:
 > 1. Download the spreadsheet [Extension Technology Mapping](./images/XP262_TechEd_2025_SAP_Application_Extension_Methodology_EXTENSION_TECHNOLOGY_MAPPING_v2.4.1.xlsx).
 > 2. The contents of this spreadsheet were greatly reduced to make the exercise simpler and faster.
 > 3. Make yourself familiar with the extension tasks and technical extension building blocks.
@@ -107,6 +108,7 @@ The extension technology mapping outlines the relationship between extension tas
 <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-3-define-extension-target-solution?locale=en-US" target="_blank">Phase 3: Define Extension Target Solution</a>
 
 ### Exercise 1.4.1: Extension Technology per Extension Task
+#### Follow these steps:
 > 1. Choose a suitable technical extension building blocks and write it into Phase 3 of the template.
 > 2. Repeat this for scene 01 to scene 04.
 > 3. Use the Extension Technology Mapping spreadsheet from exercise 1.3.2 to choose the right building block for each extension task.
@@ -144,6 +146,7 @@ The extension technology mapping outlines the relationship between extension tas
 ### Exercise 1.4.2: Extension Target Solution Diagram
 Create your extension target solution by reusing the official SAP Business Technology Platform diagrams & icons.
 
+#### Follow these steps:
 > 1. Download the [BTP Solution Diagrams](https://sap.github.io/btp-solution-diagrams/) Icons.
 > 2. Create the solution diagram. 
 > 3. To speed up the process you can use the pre-filled PowerPoint template.
