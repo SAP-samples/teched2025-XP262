@@ -16,14 +16,14 @@ ACME’s sales order entry requires additional validations and approvals. The au
 
 ### Architecture Principals and Business Context:
 - Extensions needs to be upgrade stable and follow Clean Core Level A
-- SAP Build Low-code/No-code tools are preferred for development (?Citizen Developer?)
+- SAP Build Low-code/No-code tools are preferred for development
 - Side-by-Side options are preferred for workflow implementation and UIs
 - ACME employees are used to access SAP application through SAP Build Work Zone
 
 ## Exercise 1.2: Assess Extension Use Case
-
+> **Tip:** Right-click the link and select "Open link in new tab/window" to keep this page open.
 > 1. Learn about the SAP Application Extension Methodology - 
- <a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-1-assess-extension-use-case?locale=en-US)" target="_blank">Phase 1: Assess Extension Use Case</a>
+[Phase 1: Assess Extension Use Case](https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-1-assess-extension-use-case?locale=en-US)
 > 2. Read the example solution for System Context, Business Context & Requirement, and Application Extension Use Case. To speed up the hands-on exercicse, we already provide you with the solution. In later exercises you will fill out the templates on your own.
 
 ### System Context
@@ -51,9 +51,8 @@ ACME’s sales order entry requires additional validations and approvals. The au
 </details>
 
 ## Exercise 1.3: Assess Extension Technology
-
 > 1. Learn about the SAP Application Extension Methodology - 
-<a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-2-assess-extension-technology?locale=en-US" target="_blank">Phase 2: Assess Extension Technology</a>. 
+[Phase 2: Assess Extension Technology](https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-2-assess-extension-technology?locale=en-US).
 > 2. Focus on Extension Tasks and the Extension Technology Mapping.
 
 ### Exercise 1.3.1: Extension task
@@ -105,7 +104,7 @@ The extension technology mapping outlines the relationship between extension tas
 
 ## Exercise 1.4:  Define Extension Target Solution
 > 1. Learn about the SAP Application Extension Methodology - 
-<a href="https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-3-define-extension-target-solution?locale=en-US" target="_blank">Phase 3: Define Extension Target Solution</a>
+[Phase 3: Define Extension Target Solution](https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/phase-3-define-extension-target-solution?locale=en-US)
 
 ### Exercise 1.4.1: Extension Technology per Extension Task
 #### Follow these steps:
@@ -147,11 +146,11 @@ The extension technology mapping outlines the relationship between extension tas
 Create your extension target solution by reusing the official SAP Business Technology Platform diagrams & icons.
 
 #### Follow these steps:
-> 1. Download the [BTP Solution Diagrams](https://sap.github.io/btp-solution-diagrams/) Icons.
+> 1. Download the PowerPoint file for the [BTP Solution Diagrams](https://sap.github.io/btp-solution-diagrams/) icons.
 > 2. Create the solution diagram. 
 > 3. To speed up the process you can use the pre-filled PowerPoint template.
 > 4. Remember which technical extension building blocks did you choose in exercise 1.4.1?
-> 5. If you need more guidance, you can take a look at the SAP Architecture Center. Navigate to the <a href="https://discovery-center.cloud.sap/index.html" target="_blank">SAP Discovery Center</a> -> SAP BTP Guidance Framework -> SAP Architecture Center.
+> 5. If you need more guidance, you can take a look at the SAP Architecture Center. Navigate to the [SAP Discovery Center](https://discovery-center.cloud.sap/index.html) -> SAP BTP Guidance Framework -> SAP Architecture Center.
 
 <details>
 <summary>⚠️ Click to expand - spoiler - example solution</summary>
