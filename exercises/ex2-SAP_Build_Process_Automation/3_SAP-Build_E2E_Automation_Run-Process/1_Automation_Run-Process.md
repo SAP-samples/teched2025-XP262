@@ -29,7 +29,7 @@ Releasing a project creates a version or snapshot of the changes, and deploying 
    **Note**: If you do not see the **Deploy** option you may ned to manually change from the **Editable** to the **Released** version of your project:
    ![](./Images/editable-released.png)
 
-3. Select the **Public** environment and Choose **Deploy**.
+3. Select the **Public** environment and Choose **Deploy**. You can ignore the depracation message.
 
    ![Deploy](./Images/312-1_Deploy-2.png)
 

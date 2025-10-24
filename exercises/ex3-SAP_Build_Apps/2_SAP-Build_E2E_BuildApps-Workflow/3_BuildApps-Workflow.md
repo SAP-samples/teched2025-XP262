@@ -18,7 +18,7 @@ We will create the page variables for the Customer, Material, Quantity and the D
 
 5. Add a page variable for **material** of type **text**.
 
-6. Add a page variable for **date** of type **date text**.
+6. Add a page variable for **date** of type **Date text (ISO 8601)**.
 
     > **Note**: Do not select **date/time text** as the data type.
 
