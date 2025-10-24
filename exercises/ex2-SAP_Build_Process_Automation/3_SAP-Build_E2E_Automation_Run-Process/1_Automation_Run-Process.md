@@ -18,22 +18,26 @@ Releasing a project creates a version or snapshot of the changes, and deploying 
 
 ### Deploy the Released Project.
 
-1. Once the project is released successfully, choose the **Deploy** button on the top-right corner of the screen.
+1. Once the project is released successfully, you can see all project version that exists.
+
+   ![Project Version](./Images/312-1_ShowProjectVersion.png)
+
+2. Now choose the **Deploy** button on the top-right corner of the screen.
 
    ![Deploy](./Images/312-1_Deploy-1.png)
 
    **Note**: If you do not see the **Deploy** option you may ned to manually change from the **Editable** to the **Released** version of your project:
    ![](./Images/editable-released.png)
 
-2. Select the **Public** environment and Choose **Deploy**.
+3. Select the **Public** environment and Choose **Deploy**.
 
    ![Deploy](./Images/312-1_Deploy-2.png)
 
-3. Choose **Deploy**.
+4. Choose **Deploy**.
 
    ![Deploy](./Images/312-1_Deploy-3.png)
 
-4. Once the deployment is successful, you will see a changed status.
+5. Once the deployment is successful, you will see a changed status.
 
    ![Deploy](./Images/312-1_Deploy-5.png)
 
