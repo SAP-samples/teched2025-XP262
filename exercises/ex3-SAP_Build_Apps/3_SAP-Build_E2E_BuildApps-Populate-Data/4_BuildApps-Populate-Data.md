@@ -29,4 +29,5 @@
     ![](./Images/monitor.png)
 
 
-**Congratulations** you have completed the exercise!
+## Congratulations 🎉!
+You have completed the TechEd 2025 hands-on session "[XP262 - Best practices for a successful clean core journey with SAP Build solutions](/README.md)"!
