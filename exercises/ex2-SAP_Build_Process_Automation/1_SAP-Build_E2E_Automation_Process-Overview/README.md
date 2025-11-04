@@ -9,6 +9,9 @@ With SAP Build Process Automation, create a sales order approval process that ca
 - Your **XP262-XXX (your user number)** username and password
 - You have access to the SAP Build [Lobby](https://xp262-tg0x69xc.eu10.build.cloud.sap/lobby). 
 
+- Use tdct3ched1.accounts.ondemand.com as identity provide to authenticate
+
+![idp](./Images/idp.jpg)
 
 > Make sure to follow the exercise documentation and use the provided naming conventions. Otherwise, you will encounter issues. 
 
